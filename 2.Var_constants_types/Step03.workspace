@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="Step03" Database="./Step03.tags">
+<CodeLite_Workspace Name="Step03" Database="./Step03.tags" Version="10000">
   <Project Name="01_Calc" Path="01_Calc/01_Calc.project" Active="No"/>
   <Project Name="02_Calc" Path="02_Calc/02_Calc.project" Active="No"/>
   <Project Name="03_Calc" Path="03_Calc/03_Calc.project" Active="No"/>

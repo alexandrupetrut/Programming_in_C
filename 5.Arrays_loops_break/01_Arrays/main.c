@@ -2,8 +2,8 @@
 
 int intarray[] = {1,2,3,4,5};
 double doublearray2[] = {2.1, 2.3, 2.4, 2.5};
-char chararray[] = {'h', 'e', 'l', 'l', 'o', '\0' };
-char chararray2[] = "world";
+char chararray[] = {'h', 'e', 'l', 'l', 'o', '\0' }; // assigning chars with null terminator at the end
+char chararray2[] = "world"; // assigning a string means that the null terminator is appended automatically
 
 
 int main(int argc, char **argv) {
@@ -18,34 +18,36 @@ int main(int argc, char **argv) {
 		printf("%d\n", intarray[i]);
 	}
 
-	printf( "--- while loop (i = 0) ---\n");
+	printf( "\n--- while loop (i = 0) ---\n");
 	i = 0;
 	while( i < 5) {
 		printf("%d\n", intarray[i]);
 		i++;
 	}
 
-	printf( "--- do..while loop (i = 0) ---\n");
+	printf( "\n--- do..while loop (i = 0) ---\n");
 	i = 0;
 	do {
 		printf("%d\n", intarray[i]);
 		i++;
 	} while( i < 5);
 
-	printf( "--- while loop (i = 5) ---\n");
+	printf( "\n--- while loop (i = 5) ---\n");
 	i = 5;
 	while( i < 5) {
 		printf("%d\n", intarray[i]);
 		i++;
 	}
 
-	printf( "--- do..while loop (i = 5) ---\n");
+	printf( "\n--- do..while loop (i = 5) ---\n");
 	i = 5;
 	do {
 		printf("%d\n", intarray[i]);
 		i++;
 	} while( i < 10);
 
+    printf( "\n--- Printing the char arrays ---\n");
 	printf("%s", chararray);
 	printf(" %s", chararray2);
+    printf("\n");
 }

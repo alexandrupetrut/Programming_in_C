@@ -1,0 +1,11 @@
+_MSVCRTVER_H	c:\MinGW\include\msvcrtver.h	/^#define _MSVCRTVER_H$/;"	macro	line:34
+__MSVCR60_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR60_DLL		0x0600$/;"	macro	line:42
+__MSVCR61_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR61_DLL		0x0601$/;"	macro	line:43
+__MSVCR70_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR70_DLL		0x0700$/;"	macro	line:44
+__MSVCR71_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR71_DLL		0x0701$/;"	macro	line:45
+__MSVCR80_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR80_DLL		0x0800$/;"	macro	line:46
+__MSVCR90_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR90_DLL		0x0900$/;"	macro	line:47
+__MSVCR100_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR100_DLL		0x1000$/;"	macro	line:48
+__MSVCR110_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR110_DLL		0x1100$/;"	macro	line:49
+__MSVCR120_DLL	c:\MinGW\include\msvcrtver.h	/^#define __MSVCR120_DLL		0x1200$/;"	macro	line:50
+__MSVCRT_VERSION__	c:\MinGW\include\msvcrtver.h	/^# define __MSVCRT_VERSION__  __MSVCR60_DLL$/;"	macro	line:68

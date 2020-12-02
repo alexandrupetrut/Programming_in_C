@@ -22,6 +22,7 @@ int readln(char s[], int maxlen) {
 	int chars_remain;
 	i = 0;
 	chars_remain = 1;
+    // while loop continues getting chars as long as there are chars to be processed
 	while (chars_remain) {
 		ch = getchar();
 		if ((ch == '\n') || (ch == EOF) ) {
@@ -31,6 +32,8 @@ int readln(char s[], int maxlen) {
 			i++;
 		}
 	}
+    // so the loop stops running when a new line or EOF is found, before or after adding chars to s[]
+    // so i put a null char at the end to mark the end of the string ~ and return the length of the string (i)
 	s[i] = '\0';
 	return i;
 } 

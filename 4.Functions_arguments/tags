@@ -1,0 +1,5 @@
+sayHello	D:\CProjects\4.Functions_arguments\01_Functions\main.c	/^void sayHello( ) {$/;"	function	line:3	returns:void 
+greet	D:\CProjects\4.Functions_arguments\01_Functions\main.c	/^void greet( char aName[] ) {$/;"	function	line:7	signature:( char aName[] )	returns:void 
+add	D:\CProjects\4.Functions_arguments\01_Functions\main.c	/^int add( int num1, int num2 ) {$/;"	function	line:11	signature:( int num1, int num2 )	returns:int 
+divide	D:\CProjects\4.Functions_arguments\01_Functions\main.c	/^double divide( int num1, int num2 ) {$/;"	function	line:16	signature:( int num1, int num2 )	returns:double 
+main	D:\CProjects\4.Functions_arguments\01_Functions\main.c	/^int main(int argc, char **argv) {$/;"	function	line:20	signature:(int argc, char **argv)	returns:int 

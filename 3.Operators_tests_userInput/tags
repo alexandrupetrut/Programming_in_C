@@ -1,0 +1,36 @@
+_SYS_TYPES_H	c:\MinGW\include\sys\types.h	/^#define _SYS_TYPES_H$/;"	macro	line:50
+__off32_t	c:\MinGW\include\sys\types.h	/^  typedef __int32  __off32_t; $/;"	typedef	line:62
+_off_t	c:\MinGW\include\sys\types.h	/^  typedef __off32_t  _off_t; $/;"	typedef	line:67
+off_t	c:\MinGW\include\sys\types.h	/^  typedef _off_t  off_t; $/;"	typedef	line:75
+__have_typedef_off_t	c:\MinGW\include\sys\types.h	/^#  define __have_typedef_off_t$/;"	macro	line:81
+__need_off_t	c:\MinGW\include\sys\types.h	/^#undef __need_off_t$/;"	macro	line:84
+__off64_t	c:\MinGW\include\sys\types.h	/^  typedef __int64  __off64_t; $/;"	typedef	line:91
+off64_t	c:\MinGW\include\sys\types.h	/^  typedef __off64_t  off64_t; $/;"	typedef	line:98
+__have_typedef___off64_t	c:\MinGW\include\sys\types.h	/^#  define __have_typedef___off64_t$/;"	macro	line:105
+__need___off64_t	c:\MinGW\include\sys\types.h	/^#undef __need___off64_t$/;"	macro	line:108
+_ssize_t	c:\MinGW\include\sys\types.h	/^  typedef int  _ssize_t; $/;"	typedef	line:115
+ssize_t	c:\MinGW\include\sys\types.h	/^  typedef _ssize_t  ssize_t; $/;"	typedef	line:123
+__have_typedef_ssize_t	c:\MinGW\include\sys\types.h	/^#  define __have_typedef_ssize_t$/;"	macro	line:129
+__need_ssize_t	c:\MinGW\include\sys\types.h	/^#undef __need_ssize_t$/;"	macro	line:132
+__time32_t	c:\MinGW\include\sys\types.h	/^  typedef __int32 __time32_t;	\/* unambiguous 32-bit time_t *\/ $/;"	typedef	line:139
+__time64_t	c:\MinGW\include\sys\types.h	/^  typedef __int64 __time64_t;	\/* unambiguous 64-bit time_t *\/ $/;"	typedef	line:140
+time_t	c:\MinGW\include\sys\types.h	/^   typedef __time32_t time_t; $/;"	typedef	line:149
+time_t	c:\MinGW\include\sys\types.h	/^   typedef __time64_t time_t; $/;"	typedef	line:154
+__have_typedef_time_t	c:\MinGW\include\sys\types.h	/^#  define __have_typedef_time_t  1$/;"	macro	line:160
+__need_time_t	c:\MinGW\include\sys\types.h	/^#undef __need_time_t$/;"	macro	line:163
+__need_size_t	c:\MinGW\include\sys\types.h	/^#define __need_size_t$/;"	macro	line:171
+__need_ptrdiff_t	c:\MinGW\include\sys\types.h	/^#define __need_ptrdiff_t$/;"	macro	line:172
+__need_wchar_t	c:\MinGW\include\sys\types.h	/^#define __need_wchar_t$/;"	macro	line:173
+_dev_t	c:\MinGW\include\sys\types.h	/^typedef unsigned int	_dev_t; $/;"	typedef	line:184
+_dev_t	c:\MinGW\include\sys\types.h	/^typedef short		_dev_t; $/;"	typedef	line:189
+_ino_t	c:\MinGW\include\sys\types.h	/^typedef short		_ino_t; $/;"	typedef	line:195
+_mode_t	c:\MinGW\include\sys\types.h	/^typedef unsigned short	_mode_t; $/;"	typedef	line:196
+_pid_t	c:\MinGW\include\sys\types.h	/^typedef int		_pid_t; $/;"	typedef	line:197
+_sigset_t	c:\MinGW\include\sys\types.h	/^typedef int		_sigset_t; $/;"	typedef	line:198
+dev_t	c:\MinGW\include\sys\types.h	/^typedef _dev_t		 dev_t; $/;"	typedef	line:207
+ino_t	c:\MinGW\include\sys\types.h	/^typedef _ino_t		 ino_t; $/;"	typedef	line:208
+mode_t	c:\MinGW\include\sys\types.h	/^typedef _mode_t 	 mode_t; $/;"	typedef	line:209
+pid_t	c:\MinGW\include\sys\types.h	/^typedef _pid_t		 pid_t; $/;"	typedef	line:210
+sigset_t	c:\MinGW\include\sys\types.h	/^typedef _sigset_t	 sigset_t; $/;"	typedef	line:211
+fpos64_t	c:\MinGW\include\sys\types.h	/^typedef __int64 	 fpos64_t; $/;"	typedef	line:214
+__MINGW_ATTRIB_DEPRECATED	c:\MinGW\include\sys\types.h	/^typedef unsigned long useconds_t __MINGW_ATTRIB_DEPRECATED; $/;"	typedef	line:221

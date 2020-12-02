@@ -31,14 +31,14 @@ void findchartype2( char c ) {
 		case '9':
 			chartype = "Number";
 			break;
-			/*
+			
 		case 'A' ... 'Z':
 			chartype = "Uppercase Letter";
 			break;
 		case 'a' ... 'z':
 			chartype = "Lowercase Letter";
 			break;
-			 */
+			
 		default:
 			chartype = "Character";
 			break;
@@ -81,7 +81,7 @@ void findchartype( int i ) {
 		case 57:
 			chartype = "Number";
 			break;
-			/*
+			
 				// These use ranges (values between 65 and 90; values between 97 and 122)
 				// Ranges in Switch/case are an extension to standard C and this syntax
 				// is not supported by all C compilers
@@ -91,7 +91,7 @@ void findchartype( int i ) {
 			case 97 ... 122:
 				chartype = "Lowercase Letter";
 				break;
-			 */
+			
 		default:
 			chartype = "Character";
 			break;

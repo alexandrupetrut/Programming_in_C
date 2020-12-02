@@ -13,13 +13,13 @@ int main(int argc, char **argv) {
 		printf( "--- row %d --- \n", row);
 		for( column = 0; column < 5; column++ ) {
 			printf("column[%d], value=%d\n", column, grid[row][column]);
-			/* // uncomment the code below to see how to break out of the inner 'for' loop
+			 // uncomment the code below to see how to break out of the inner 'for' loop
 			   // If I were to put a break here it would break out of the INNER 'for'
 			   // loop only
 			if (column == 2) {
 				break;
 			}
-			// */
+			// 
 		}
 	}
 	return 0;

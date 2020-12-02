@@ -17,7 +17,7 @@ void whilebreak() {
 		str[i] = c;
 		i++;
 	}
-	printf("\nAfter while loop, str='%s'", str);
+	printf("\nAfter while loop, str='%s'\n", str);
 }
 
 void forbreak() {
@@ -35,7 +35,7 @@ void forbreak() {
 			str[i] = '\0';
 			break;
 		}		
-		str[i] = chararray[i] + 1;
+		str[i] = chararray[i] + 1; //  or   str[i] = c + 1;
 	}
 	printf("Encrypted string is '%s'\n", str);
 	
