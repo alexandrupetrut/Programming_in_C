@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// char str1[] => char array gives the address where the string begins aka address of first character in that array
+// char *str2  => pointer does not indicate the address of the start of the array, but stores a 'reference' to the address
+
 int main(int argc, char **argv) {
 	char str1[] = "Hello";
 	char *str2 = "Goodbye";

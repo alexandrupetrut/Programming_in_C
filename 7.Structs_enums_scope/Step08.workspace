@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="Step08" Database="./Step08.tags">
+<CodeLite_Workspace Name="Step08" Database="./Step08.tags" Version="10000">
   <Project Name="01_Structs" Path="01_Structs/01_Structs.project" Active="No"/>
   <Project Name="02_Typedefs" Path="02_Typedefs/02_Typedefs.project" Active="No"/>
   <Project Name="03_Enums" Path="03_Enums/03_Enums.project" Active="No"/>

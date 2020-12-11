@@ -20,7 +20,9 @@ void showstring() {
 void searchstring(char searchstr[]) {
 	char *ptrtostr;
 	int foundat;
+    // strstr to search a substring and return it as a pointer
 	ptrtostr = strstr( mystring, searchstr );
+    // calculate the position at which the substring is found
 	foundat = (int)((ptrtostr - mystring) + 1);
 	if ( ptrtostr != NULL )
 		printf( "\n'%s' found at position %d\n", searchstr, foundat );
@@ -39,8 +41,10 @@ void copystring() {
 }
 
 void concatstring() {
+    // strcat(destination_string, source_string);
 	strcat(msg1, "Easter");
 	printf("\n\nstrcat: '%s'", msg1);
+    // strcat(destination_string, source_string, number_of_chars_to_be_concatenated);
 	strncat(msg2, "Easter", 4);
 	printf("\nstrncat: '%s'\n", msg2);
 }

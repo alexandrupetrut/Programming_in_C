@@ -1,0 +1,101 @@
+_STDDEF_H	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _STDDEF_H$/;"	macro	line:39
+_STDDEF_H_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _STDDEF_H_$/;"	macro	line:40
+_ANSI_STDDEF_H	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _ANSI_STDDEF_H$/;"	macro	line:42
+_SIZE_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T$/;"	macro	line:65
+_PTRDIFF_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _PTRDIFF_T$/;"	macro	line:68
+_WCHAR_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T$/;"	macro	line:74
+_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _PTRDIFF_T_$/;"	macro	line:79
+_BSD_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_PTRDIFF_T_$/;"	macro	line:80
+_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _SIZE_T_$/;"	macro	line:83
+_BSD_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_SIZE_T_$/;"	macro	line:84
+_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _WCHAR_T_$/;"	macro	line:87
+_BSD_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_WCHAR_T_$/;"	macro	line:88
+_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _PTRDIFF_T_$/;"	macro	line:95
+_TYPE_ptrdiff_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _TYPE_ptrdiff_t$/;"	macro	line:106
+_TYPE_size_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _TYPE_size_t$/;"	macro	line:110
+_TYPE_wchar_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _TYPE_wchar_t$/;"	macro	line:114
+_PTRDIFF_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _PTRDIFF_T$/;"	macro	line:137
+_T_PTRDIFF_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_PTRDIFF_$/;"	macro	line:138
+_T_PTRDIFF	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_PTRDIFF$/;"	macro	line:139
+__PTRDIFF_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __PTRDIFF_T$/;"	macro	line:140
+_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _PTRDIFF_T_$/;"	macro	line:141
+_BSD_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_PTRDIFF_T_$/;"	macro	line:142
+___int_ptrdiff_t_h	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define ___int_ptrdiff_t_h$/;"	macro	line:143
+_GCC_PTRDIFF_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _GCC_PTRDIFF_T$/;"	macro	line:144
+_PTRDIFF_T_DECLARED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _PTRDIFF_T_DECLARED$/;"	macro	line:145
+__PTRDIFF_TYPE__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __PTRDIFF_TYPE__ long int$/;"	macro	line:147
+ptrdiff_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef __PTRDIFF_TYPE__ ptrdiff_t; $/;"	typedef	line:149
+__need_ptrdiff_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef	__need_ptrdiff_t$/;"	macro	line:161
+__size_t__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __size_t__	\/* BeOS *\/$/;"	macro	line:187
+__SIZE_T__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __SIZE_T__	\/* Cray Unicos\/Mk *\/$/;"	macro	line:188
+_SIZE_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T$/;"	macro	line:189
+_SYS_SIZE_T_H	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SYS_SIZE_T_H$/;"	macro	line:190
+_T_SIZE_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_SIZE_$/;"	macro	line:191
+_T_SIZE	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_SIZE$/;"	macro	line:192
+__SIZE_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __SIZE_T$/;"	macro	line:193
+_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T_$/;"	macro	line:194
+_BSD_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_SIZE_T_$/;"	macro	line:195
+_SIZE_T_DEFINED_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T_DEFINED_$/;"	macro	line:196
+_SIZE_T_DEFINED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T_DEFINED$/;"	macro	line:197
+_BSD_SIZE_T_DEFINED_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_SIZE_T_DEFINED_	\/* Darwin *\/$/;"	macro	line:198
+_SIZE_T_DECLARED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZE_T_DECLARED	\/* FreeBSD 5 *\/$/;"	macro	line:199
+___int_size_t_h	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define ___int_size_t_h$/;"	macro	line:200
+_GCC_SIZE_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _GCC_SIZE_T$/;"	macro	line:201
+_SIZET_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _SIZET_$/;"	macro	line:202
+__size_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __size_t$/;"	macro	line:210
+__SIZE_TYPE__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __SIZE_TYPE__ long unsigned int$/;"	macro	line:213
+size_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef __SIZE_TYPE__ size_t; $/;"	typedef	line:216
+ssize_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef long ssize_t; $/;"	typedef	line:218
+__need_size_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef	__need_size_t$/;"	macro	line:238
+__wchar_t__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __wchar_t__	\/* BeOS *\/$/;"	macro	line:267
+__WCHAR_T__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __WCHAR_T__	\/* Cray Unicos\/Mk *\/$/;"	macro	line:268
+_WCHAR_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T$/;"	macro	line:269
+_T_WCHAR_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_WCHAR_$/;"	macro	line:270
+_T_WCHAR	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _T_WCHAR$/;"	macro	line:271
+__WCHAR_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __WCHAR_T$/;"	macro	line:272
+_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T_$/;"	macro	line:273
+_BSD_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_WCHAR_T_$/;"	macro	line:274
+_WCHAR_T_DEFINED_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T_DEFINED_$/;"	macro	line:275
+_WCHAR_T_DEFINED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T_DEFINED$/;"	macro	line:276
+_WCHAR_T_H	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T_H$/;"	macro	line:277
+___int_wchar_t_h	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define ___int_wchar_t_h$/;"	macro	line:278
+__INT_WCHAR_T_H	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __INT_WCHAR_T_H$/;"	macro	line:279
+_GCC_WCHAR_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _GCC_WCHAR_T$/;"	macro	line:280
+_WCHAR_T_DECLARED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WCHAR_T_DECLARED$/;"	macro	line:281
+_BSD_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_WCHAR_T_$/;"	macro	line:294
+rune_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef _BSD_RUNE_T_ rune_t; $/;"	typedef	line:297
+_BSD_WCHAR_T_DEFINED_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_WCHAR_T_DEFINED_$/;"	macro	line:298
+_BSD_RUNE_T_DEFINED_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _BSD_RUNE_T_DEFINED_	\/* Darwin *\/$/;"	macro	line:299
+_BSD_RUNE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_RUNE_T_$/;"	macro	line:305
+rune_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef __rune_t        rune_t; $/;"	typedef	line:317
+_RUNE_T_DECLARED	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _RUNE_T_DECLARED$/;"	macro	line:318
+__WCHAR_TYPE__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __WCHAR_TYPE__ int$/;"	macro	line:325
+__need_wchar_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef	__need_wchar_t$/;"	macro	line:347
+_WINT_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _WINT_T$/;"	macro	line:352
+__WINT_TYPE__	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define __WINT_TYPE__ unsigned int$/;"	macro	line:355
+wint_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef __WINT_TYPE__ wint_t; $/;"	typedef	line:357
+__need_wint_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef __need_wint_t$/;"	macro	line:359
+_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _PTRDIFF_T_$/;"	macro	line:370
+_BSD_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_PTRDIFF_T_$/;"	macro	line:371
+_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _SIZE_T_$/;"	macro	line:374
+_BSD_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_SIZE_T_$/;"	macro	line:375
+_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _WCHAR_T_$/;"	macro	line:378
+_BSD_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_WCHAR_T_$/;"	macro	line:379
+_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _PTRDIFF_T_$/;"	macro	line:383
+_BSD_PTRDIFF_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_PTRDIFF_T_$/;"	macro	line:384
+_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _SIZE_T_$/;"	macro	line:387
+_BSD_SIZE_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_SIZE_T_$/;"	macro	line:388
+_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _WCHAR_T_$/;"	macro	line:391
+_BSD_WCHAR_T_	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef _BSD_WCHAR_T_$/;"	macro	line:392
+NULL	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef NULL		\/* in case <stdio.h> has defined it. *\/$/;"	macro	line:401
+NULL	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define NULL __null$/;"	macro	line:403
+NULL	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define NULL ((void *)0)$/;"	macro	line:406
+NULL	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define NULL 0$/;"	macro	line:408
+__need_NULL	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#undef	__need_NULL$/;"	macro	line:412
+offsetof	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define offsetof(TYPE, MEMBER) __builtin_offsetof (TYPE, MEMBER)$/;"	macro	line:417
+_GCC_MAX_ALIGN_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _GCC_MAX_ALIGN_T$/;"	macro	line:422
+__max_align_ll	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^  long long __max_align_ll __attribute__((__aligned__(__alignof__(long long))));$/;"	member	line:427	struct:__anon4	access:public
+__max_align_ld	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^  long double __max_align_ld __attribute__((__aligned__(__alignof__(long double))));$/;"	member	line:428	struct:__anon4	access:public
+max_align_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^typedef struct {   long long __max_align_ll __attribute__((__aligned__(__alignof__(long long))));   long double __max_align_ld __attribute__((__aligned__(__alignof__(long double)))); } max_align_t; $/;"	typedef	line:429	typeref:struct:__anon4
+_GXX_NULLPTR_T	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^#define _GXX_NULLPTR_T$/;"	macro	line:435
+nullptr_t	c:\MinGW\lib\gcc\mingw32\6.3.0\include\stddef.h	/^  typedef decltype(nullptr) nullptr_t; $/;"	typedef	line:436

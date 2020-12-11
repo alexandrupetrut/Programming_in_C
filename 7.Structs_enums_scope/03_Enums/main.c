@@ -3,9 +3,9 @@
 
 #define NUMBER_OF_CDS 4
 
-enum score {
+typedef enum score {
     Terrible, Bad, Average, Good, Excellent
-};
+} Score;
 
 typedef char Str50[50];
 
@@ -13,7 +13,7 @@ typedef struct cd {
 	Str50 name;
 	Str50 artist;
 	int trackcount;
-	enum score rating;
+	Score rating;
 } CD;
 
 CD cd_collection[NUMBER_OF_CDS];

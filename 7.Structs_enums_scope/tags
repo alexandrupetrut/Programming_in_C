@@ -1,0 +1,48 @@
+_WCTYPE_H	c:\MinGW\include\wctype.h	/^#define _WCTYPE_H$/;"	macro	line:46
+_ALPHA	c:\MinGW\include\wctype.h	/^#define _ALPHA		0x0103$/;"	macro	line:63
+_LOWER	c:\MinGW\include\wctype.h	/^#define _LOWER		0x0002$/;"	macro	line:64
+_UPPER	c:\MinGW\include\wctype.h	/^#define _UPPER		0x0001$/;"	macro	line:65
+_DIGIT	c:\MinGW\include\wctype.h	/^#define _DIGIT		0x0004$/;"	macro	line:66
+_SPACE	c:\MinGW\include\wctype.h	/^#define _SPACE		0x0008		\/* HT  LF  VT  FF  CR  SP *\/$/;"	macro	line:67
+_PUNCT	c:\MinGW\include\wctype.h	/^#define _PUNCT		0x0010$/;"	macro	line:68
+_CONTROL	c:\MinGW\include\wctype.h	/^#define _CONTROL	0x0020$/;"	macro	line:69
+_BLANK	c:\MinGW\include\wctype.h	/^#define _BLANK		0x0040$/;"	macro	line:70
+_HEX	c:\MinGW\include\wctype.h	/^#define _HEX		0x0080$/;"	macro	line:71
+__need_wint_t	c:\MinGW\include\wctype.h	/^#define __need_wint_t$/;"	macro	line:85
+__need_wchar_t	c:\MinGW\include\wctype.h	/^#define __need_wchar_t$/;"	macro	line:86
+wctype_t	c:\MinGW\include\wctype.h	/^typedef wchar_t  wctype_t; $/;"	typedef	line:89
+WEOF	c:\MinGW\include\wctype.h	/^#define WEOF	(wchar_t)(0xffff)$/;"	macro	line:90
+iswalnum	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswalnum (wint_t);$/;"	prototype	line:100	signature:(wint_t)	returns:_BEGIN_C_DECLS _CRTIMP __cdecl __MINGW_NOTHROW int 
+iswalpha	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswalpha (wint_t);$/;"	prototype	line:101	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswascii	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswascii (wint_t);$/;"	prototype	line:102	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswcntrl	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswcntrl (wint_t);$/;"	prototype	line:103	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswctype	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswctype (wint_t, wctype_t);$/;"	prototype	line:104	signature:(wint_t, wctype_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswdigit	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswdigit (wint_t);$/;"	prototype	line:105	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswgraph	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswgraph (wint_t);$/;"	prototype	line:106	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswlower	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswlower (wint_t);$/;"	prototype	line:107	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswprint	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswprint (wint_t);$/;"	prototype	line:108	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswpunct	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswpunct (wint_t);$/;"	prototype	line:109	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswspace	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswspace (wint_t);$/;"	prototype	line:110	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswupper	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswupper (wint_t);$/;"	prototype	line:111	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+iswxdigit	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int iswxdigit (wint_t);$/;"	prototype	line:112	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW int 
+is_wctype	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  int is_wctype (wint_t, wctype_t);$/;"	prototype	line:120	signature:(wint_t, wctype_t)	returns:__MINGW_ATTRIB_DEPRECATED _CRTIMP __cdecl __MINGW_NOTHROW int 
+iswblank	c:\MinGW\include\wctype.h	/^__cdecl __MINGW_NOTHROW  int iswblank (wint_t);$/;"	prototype	line:123	signature:(wint_t)	returns:__cdecl __MINGW_NOTHROW int 
+towlower	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  wint_t towlower (wint_t);$/;"	prototype	line:131	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW wint_t 
+towupper	c:\MinGW\include\wctype.h	/^_CRTIMP __cdecl __MINGW_NOTHROW  wint_t towupper (wint_t);$/;"	prototype	line:132	signature:(wint_t)	returns:_CRTIMP __cdecl __MINGW_NOTHROW wint_t 
+iswalnum	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswalnum (wint_t wc)$/;"	function	line:140	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswalpha	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswalpha (wint_t wc)$/;"	function	line:143	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswascii	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswascii (wint_t wc)$/;"	function	line:146	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswcntrl	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswcntrl (wint_t wc)$/;"	function	line:149	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswdigit	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswdigit (wint_t wc)$/;"	function	line:152	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswgraph	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswgraph (wint_t wc)$/;"	function	line:155	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswlower	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswlower (wint_t wc)$/;"	function	line:158	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswprint	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswprint (wint_t wc)$/;"	function	line:161	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswpunct	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswpunct (wint_t wc)$/;"	function	line:164	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswspace	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswspace (wint_t wc)$/;"	function	line:167	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswupper	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswupper (wint_t wc)$/;"	function	line:170	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswxdigit	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswxdigit (wint_t wc)$/;"	function	line:173	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+iswblank	c:\MinGW\include\wctype.h	/^__CRT_INLINE __cdecl __MINGW_NOTHROW  int iswblank (wint_t wc)$/;"	function	line:177	signature:(wint_t wc)	returns:__CRT_INLINE __cdecl __MINGW_NOTHROW int 
+wctrans_t	c:\MinGW\include\wctype.h	/^typedef wchar_t  wctrans_t; $/;"	typedef	line:191
+towctrans	c:\MinGW\include\wctype.h	/^__cdecl __MINGW_NOTHROW  wint_t towctrans (wint_t, wctrans_t);$/;"	prototype	line:202	signature:(wint_t, wctrans_t)	returns:_BEGIN_C_DECLS __cdecl __MINGW_NOTHROW wint_t 
+wctrans	c:\MinGW\include\wctype.h	/^__cdecl __MINGW_NOTHROW  wctrans_t wctrans (const char*);$/;"	prototype	line:203	signature:(const char*)	returns:__cdecl __MINGW_NOTHROW wctrans_t 
+wctype	c:\MinGW\include\wctype.h	/^__cdecl __MINGW_NOTHROW  wctype_t wctype (const char*);$/;"	prototype	line:204	signature:(const char*)	returns:__cdecl __MINGW_NOTHROW wctype_t 
