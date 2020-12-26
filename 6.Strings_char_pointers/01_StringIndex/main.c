@@ -33,6 +33,6 @@ int main(int argc, char **argv) {
     for( i = 0; i <= len2; i++ ) {
         printf("%c\n", str2[i]);
 	}
-    
+
 	return 0;
 }

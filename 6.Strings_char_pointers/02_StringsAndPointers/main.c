@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-	char str1[] = "Hello";
+/*	char str1[] = "Hello";
 	char *str2 = "Goodbye";
 	// str2 = &str1;
 	// str2 = str1;  -- similar as the above, and the keyword & (aka addressOf) is not needed, str1 shares the var address and value address ~
@@ -14,14 +14,18 @@ int main(int argc, char **argv) {
     // Value of the pointer variable is different from the address where the string begins
     // The string goodbye occupies one address, but the pointer variable *str2 occupies a different address
 	printf("Address of str2 is %d and its value expressed in decimal is %d and the string is %s\n", &str2, str2, str2, str2);
-    
+    */
     printf("\n\n");
     printf("\n\n");
     
     char mew1[] = "Hello";
     char *mew2 = "Hello";
-    char mew3[6]; mew3[0]='H'; mew3[1]='e'; mew3[2]='l'; mew3[3]='l'; mew3[4]='o'; mew3[5] = '\0';
-    char mew4[6]; mew4[0]='H'; mew4[1]='e'; mew4[2]='l'; mew4[3]='l'; mew4[4]='o';
+    
+    char mew3[6]; 
+    mew3[0]='H'; mew3[1]='e'; mew3[2]='l'; mew3[3]='l'; mew3[4]='o'; mew3[5] = '\0';
+    
+    char mew4[6]; 
+    mew4[0]='H'; mew4[1]='e'; mew4[2]='l'; mew4[3]='l'; mew4[4]='o';
     
     printf("For mew1, address is: %d and the string value is: %s\n", mew1, mew1);
     printf("For mew2, address is: %d and the string value is: %s\n", mew2, mew2);
@@ -37,7 +41,7 @@ int main(int argc, char **argv) {
     mew2 = "Goodbye";
     printf("mew2 = %s\n", mew2);
     
-    mew1 = "Goodbye";  //  illegal assignment - throws an error
+    mew1 = "Good";  //  illegal assignment - throws an error
     printf("mew1 = %s\n", mew1);
     
 	return 0;
