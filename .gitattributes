@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.swig linguist-detectable=false
+*.makefile linguist-detectable=false
+*.c linguist-detectable=true
